@@ -1,0 +1,8 @@
+name = input("enter name: ")
+age = input("enter your age: ")
+city = input("enter Your city: ")
+course = input("enter your course: ")
+print(f"my name is {name}")
+print(f" i am {age} year old.")
+print(f"i live in {city}.")
+print(f"i am learning {course}")
